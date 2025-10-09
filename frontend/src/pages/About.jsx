@@ -30,7 +30,7 @@ const About = () => {
             service. Whether you're booking your first appointment or managing
             ongoing care, Clinixo is here to support you every step of the way.
           </p>
-          <b className="text-gray-800">Our Vision</b>
+          <b className="text-gray-800">Our Vision - Test Change</b>
           <p>
             Our vision at Clinixo is to create a seamless healthcare experience
             for every user. We aim to bridge the gap between patients and
